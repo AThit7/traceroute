@@ -1,6 +1,6 @@
 # Traceroute
 
-A lightweight tool for mapping the route data packets take to reach a server, highlighting each network hop and its latency. This project was completed as part of a Computer Networks course.
+A lightweight tool for mapping the route data packets take to reach a server, highlighting each network hop and its latency. This project was completed as a part of a Computer Networks course.
 
 ## Usage
 
